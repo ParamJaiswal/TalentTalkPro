@@ -80,7 +80,7 @@ This application is configured for deployment on Hugging Face Spaces using Docke
 
 ### Prerequisites
 
-- Python 3.10+
+- Python 3.11+
 - pip or conda
 
 ### Setup
