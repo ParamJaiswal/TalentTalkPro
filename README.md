@@ -52,6 +52,9 @@ ELEVENLABS_API_KEY=your_elevenlabs_key_here
 # Database
 DATABASE_URL=sqlite+aiosqlite:///./data/talenttalk.db
 
+# API Configuration (optional, defaults to http://localhost:8000/api/v1)
+API_URL=http://localhost:8000/api/v1
+
 # CORS (if needed)
 BACKEND_CORS_ORIGINS=http://localhost:7860,https://huggingface.co
 ```
